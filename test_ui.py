@@ -29,4 +29,4 @@ map_data = pd.DataFrame(
 # st.map(map_data)
 
 
-
+st.latex()
